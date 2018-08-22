@@ -78,6 +78,7 @@ class App extends React.Component {
     console.log("componentDidMount");
     let name = document.getElementById('name');
     name.focus();
+    document.title = "React Chatroom";
    
   }
   
