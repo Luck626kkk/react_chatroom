@@ -218,3 +218,13 @@ table {
   padding: 10px 20px;
   border-radius: 10%;
 }
+@media (max-width: 420px){
+  .room{
+    width: 75%;
+  }
+  .modal-container{
+    width:70%;
+    
+  }
+
+}
