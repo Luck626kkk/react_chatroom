@@ -4,7 +4,7 @@
   "homepage": "https://Luck626kkk.github.io/react_chatroom",
   "private": true,
   "dependencies": {
-    "ajv": "^6.5.3",
+    "ajv": "^6.12.3",
     "firebase": "^5.2.0",
     "npm-install-peers": "^1.2.1",
     "react": "^16.4.1",
